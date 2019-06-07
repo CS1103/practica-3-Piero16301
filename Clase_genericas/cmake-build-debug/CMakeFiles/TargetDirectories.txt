@@ -1,0 +1,3 @@
+/home/piero/Downloads/practica-3-Piero16301/Clase_genericas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/piero/Downloads/practica-3-Piero16301/Clase_genericas/cmake-build-debug/CMakeFiles/Clase_genericas.dir
+/home/piero/Downloads/practica-3-Piero16301/Clase_genericas/cmake-build-debug/CMakeFiles/edit_cache.dir

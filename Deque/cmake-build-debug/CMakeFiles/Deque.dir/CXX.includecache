@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Downloads/practica-3-Piero16301/Deque/Cola.h
+
+/home/piero/Downloads/practica-3-Piero16301/Deque/main.cpp
+iostream
+-
+queue
+-
+Cola.h
+/home/piero/Downloads/practica-3-Piero16301/Deque/Cola.h
+
